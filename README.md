@@ -1,6 +1,6 @@
 # WebDev Extension Pack
 
-[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/vscode-webdev-pack?color=success&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=vscode-webdev-pack) 
+<!-- [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/vscode-webdev-pack?color=success&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=vscode-webdev-pack)  -->
 
 A collection of essential extensions for web development based in React, NextJS, Styled Components and GraphQL created by [Webyx Co.](https://github.com/Webyx-Co)
 
@@ -16,7 +16,7 @@ A collection of essential extensions for web development based in React, NextJS,
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver)
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-#### Code Support
+#### Language Support
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode)
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
@@ -28,6 +28,8 @@ A collection of essential extensions for web development based in React, NextJS,
 - [Sass](https://marketplace.visualstudio.com/items?itemName=syler.sass-indented)
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 #### Code Snippets
 - [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets)

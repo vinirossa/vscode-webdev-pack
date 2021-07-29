@@ -3,12 +3,16 @@
 	"license": "MIT",
     "displayName": "WebDev Extension Pack",
     "description": "A collection of VSCode essential extensions for web development.",
-    "version": "1.0.1",
+    "version": "1.0.2",
 	"publisher": "webyxco",
     "engines": {
         "vscode": "^1.58.0"
     },
     "icon": "logo.png",
+    "galleryBanner": {
+      "color": "#21052C",
+      "theme": "dark"
+    },
     "keywords": [
         "react",
         "typescript",
@@ -48,6 +52,8 @@
         "syler.sass-indented",
         "editorconfig.editorconfig",
         "yzhang.markdown-all-in-one",
+        "mikestead.dotenv",
+        "redhat.vscode-yaml",
         "abusaidm.html-snippets",
         "xabikos.javascriptsnippets",
         "thekalinga.bootstrap4-vscode",

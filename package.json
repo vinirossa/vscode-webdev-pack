@@ -3,7 +3,7 @@
 	"license": "MIT",
     "displayName": "WebDev Extension Pack",
     "description": "A collection of VSCode essential extensions for web development.",
-    "version": "1.0.0",
+    "version": "1.0.1",
 	"publisher": "webyxco",
     "engines": {
         "vscode": "^1.58.0"

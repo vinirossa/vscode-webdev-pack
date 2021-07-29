@@ -1,0 +1,60 @@
+{
+    "name": "vscode-webdev-pack",
+	"license": "MIT",
+    "displayName": "WebDev Extension Pack",
+    "description": "Web development essentials extension pack.",
+    "version": "1.0.0",
+	"publisher": "webyxco",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "icon": "logo.png",
+    "keywords": [
+        "react",
+        "typescript",
+        "next",
+        "styled-components",
+        "graphql"
+    ],
+    "repository": {
+        "url": "https://github.com/Webyx-Co/vscode-webdev-pack"
+    },
+    "homepage": "https://github.com/Webyx-Co/vscode-webdev-pack",
+    "bugs": {
+        "url": "https://github.com/Webyx-Co/vscode-webdev-pack/issues"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "steoates.autoimport",
+        "formulahendry.auto-rename-tag",
+        "bradgashler.htmltagwrap",
+        "pranaygp.vscode-css-peek",
+        "pflannery.vscode-versionlens",
+        "formulahendry.code-runner",
+        "ritwickdey.liveserver",
+        "msjsdiag.debugger-for-chrome",
+        "visualstudioexptteam.vscodeintellicode",
+        "christian-kohler.npm-intellisense",
+        "ecmel.vscode-html-css",
+        "jpoissonnier.vscode-styled-components",
+        "graphql.vscode-graphql",
+        "apollographql.vscode-apollo",
+        "ms-vscode.vscode-typescript-next",
+        "orta.vscode-jest",
+        "syler.sass-indented",
+        "editorconfig.editorconfig",
+        "yzhang.markdown-all-in-one",
+        "abusaidm.html-snippets",
+        "xabikos.javascriptsnippets",
+        "thekalinga.bootstrap4-vscode",
+        "dsznajder.es7-react-js-snippets",
+        "pulkitgangwar.nextjs-snippets",
+        "andys8.jest-snippets",
+        "vladmrnv.expresssnippet",
+        "digitalbrainstem.javascript-ejs-support"
+    ]
+}

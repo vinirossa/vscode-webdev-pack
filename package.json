@@ -4,7 +4,7 @@
     "displayName": "WebDev Extension Pack",
     "description": "A collection of VSCode essential extensions for web development.",
     "version": "1.0.2",
-	"publisher": "webyxco",
+	"publisher": "vinirossa",
     "engines": {
         "vscode": "^1.58.0"
     },

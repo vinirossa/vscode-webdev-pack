@@ -1,17 +1,17 @@
 {
     "name": "vscode-webdev-pack",
-	"license": "MIT",
+    "license": "MIT",
     "displayName": "WebDev Extension Pack",
     "description": "A collection of VSCode essential extensions for web development.",
-    "version": "1.0.2",
-	"publisher": "vinirossa",
+    "version": "2.0.0",
+    "publisher": "vinirossa",
     "engines": {
         "vscode": "^1.58.0"
     },
     "icon": "logo.png",
     "galleryBanner": {
-      "color": "#21052C",
-      "theme": "dark"
+        "color": "#21052C",
+        "theme": "dark"
     },
     "keywords": [
         "react",

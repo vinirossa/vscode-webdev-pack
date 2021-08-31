@@ -1,8 +1,8 @@
-# WebDev Extension Pack
+# Web Development Extension Pack
 
 <!-- [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/vscode-webdev-pack?color=success&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=vscode-webdev-pack)  -->
 
-A collection of essential extensions for web development based in React, NextJS, Styled Components and GraphQL created by [vinirossa](https://github.com/vinirossa).
+A collection of essential extensions for web development based in Node.js, React, NextJS, Styled Components and GraphQL created by [vinirossa](https://github.com/vinirossa).
 
 ## Included extensions
 #### Development Tools

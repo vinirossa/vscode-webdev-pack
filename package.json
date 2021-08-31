@@ -21,11 +21,11 @@
         "graphql"
     ],
     "repository": {
-        "url": "https://github.com/Webyx-Co/vscode-webdev-pack"
+        "url": "https://github.com/vinirossa/vscode-webdev-pack"
     },
-    "homepage": "https://github.com/Webyx-Co/vscode-webdev-pack",
+    "homepage": "https://github.com/vinirossa/vscode-webdev-pack",
     "bugs": {
-        "url": "https://github.com/Webyx-Co/vscode-webdev-pack/issues"
+        "url": "https://github.com/vinirossa/vscode-webdev-pack/issues"
     },
     "categories": [
         "Extension Packs"

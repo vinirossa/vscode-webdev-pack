@@ -2,7 +2,7 @@
 
 <!-- [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/vscode-webdev-pack?color=success&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=vscode-webdev-pack)  -->
 
-A collection of essential extensions for web development based in React, NextJS, Styled Components and GraphQL created by [Webyx Co.](https://github.com/Webyx-Co)
+A collection of essential extensions for web development based in React, NextJS, Styled Components and GraphQL created by [vinirossa](https://github.com/vinirossa).
 
 ## Included extensions
 #### Development Tools
@@ -46,7 +46,7 @@ To install only some of the fonts, just edit the package.json file removing the 
 ## How to develop and install locally
 - Clone the repository
 ```bash
-$ git clone https://github.com/Webyx-Co/vscode-webdev-pack
+$ git clone https://github.com/vinirossa/vscode-webdev-pack
 ```
 - Install vsce
 ```bash
@@ -65,4 +65,4 @@ $vsce package
 
 ## For more information
 
-* [Webyx Co. Github](https://github.com/Webyx-Co)
+* [See my Github](https://github.com/vinirossa)

@@ -4,6 +4,10 @@ All notable changes to the "vscode-webdev-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.0.2]
+
+- Changed the extension display name
+  
 ## [2.0.1]
 
 - Updated documentation with the new publisher
